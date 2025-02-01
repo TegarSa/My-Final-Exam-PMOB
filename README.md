@@ -22,5 +22,3 @@ Aplikasi ini dilisensikan di bawah MIT License.
 
 ## Kontak
 - **Nama:** Tegar Satria Iman Saputra
-- **Email:** example@email.com
-
